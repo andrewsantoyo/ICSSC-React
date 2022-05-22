@@ -1,5 +1,10 @@
 .class {
-    width: 100px;
-    height: 100px;
-    background-color: lightsteelblue;
+   
+    background-color: #fdfdfc;
+    
+    width: 98%;
+    height: 30%;
+    
+    margin-left: auto;
+    margin-right: auto;
 }
